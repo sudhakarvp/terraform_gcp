@@ -19,7 +19,7 @@
 # Input Line History (newest to oldest):
 
 # Registers:
-""1	LINE	0
+"1	LINE	0
 	
 "2	LINE	0
 	}
@@ -37,14 +37,43 @@
 	  }
 "9	LINE	0
 	    }
+""-	CHAR	0
+	}
 
 # File marks:
-'0  1  0  ~/main.tf
+'0  31  0  ~/first_tf/instance.tf
+'1  46  0  ~/first_tf/instance.tf
+'2  75  45  ~/first_tf/instance.tf
+'3  1  0  ~/main.tf
 
 # Jumplist (newest first):
+-'  31  0  ~/first_tf/instance.tf
+-'  1  0  ~/first_tf/instance.tf
+-'  46  0  ~/first_tf/instance.tf
+-'  75  45  ~/first_tf/instance.tf
+-'  1  0  ~/main.tf
+-'  1  0  ~/main.tf
+-'  29  45  ~/first_tf/instance.tf
+-'  1  0  ~/main.tf
+-'  1  0  ~/main.tf
+-'  47  0  ~/first_tf/instance.tf
+-'  1  0  ~/main.tf
+-'  1  0  ~/main.tf
+-'  1  0  ~/main.tf
 -'  1  0  ~/main.tf
 
 # History of marks within files (newest to oldest):
+
+> ~/first_tf/instance.tf
+	"	31	0
+	^	31	0
+	.	32	0
+	+	74	0
+	+	46	0
+	+	30	0
+	+	47	0
+	+	46	2
+	+	32	0
 
 > ~/main.tf
 	"	1	0

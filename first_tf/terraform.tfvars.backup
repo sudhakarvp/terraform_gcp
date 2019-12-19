@@ -1,0 +1,7 @@
+region          = "us-central1"
+zone		= "us-central1-a"
+gcp_project     = "terraform-261710"
+credentials     = "terraform-261710-3838e43681ba.json"
+name            = "dev"
+subnet_cidr_public = "10.1.0.0/16"
+subnet_cidr_private = "10.2.0.0/16"

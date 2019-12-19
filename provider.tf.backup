@@ -1,6 +1,0 @@
-provider "google" {
-  credentials = "${file("terraform-261710-3838e43681ba.json")}"
-  project     = "terraform-261710"
-  region      = "us-central1"
-  zone        = "us-central1-a"
-}
